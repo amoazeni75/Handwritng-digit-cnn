@@ -1,3 +1,9 @@
+"""
+@author: S.Alireza Moazeni(S.A.M.P.8)
+@tutorial source: Deep Learning With Python, Develop Deep Learning Models On Theano And TensorFlow Using
+Keras, Jason Brownlee
+"""
+
 # Simple CNN for the MNIST Dataset
 import numpy
 from keras.datasets import mnist
